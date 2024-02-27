@@ -1,0 +1,56 @@
+{
+  "schema": "https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json",
+  "title": "dhd2024-trainingsdaten",
+  "url": "https://github.com/nina-bro/dhd2024-trainingsdaten/tree/main",
+  "authors": [],
+  "description": "DHD2024",
+  "project-name": "Herrnhuter Brüder-Gemeinde Kurrent-GT",
+  "project-website": "dhh.hypotheses.org",
+  "language": [
+    "deu"
+  ],
+  "production-software": "eScriptorium + Kraken",
+  "script": [
+    "Kurrent"
+  ],
+  "script-type": "only-manuscript",
+  "time": {
+    "notBefore": "1733",
+    "notAfter": "1733"
+  },
+  "hands": {
+    "count": "3",
+    "level": "level2"
+  },
+  "license": [
+    {
+      "name": "PublicDomainMark 1.0",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  ],
+  "gtType": "data_structure_and_text",
+  "format": "Page-XML",
+  "volume": [
+    {
+      "metric": "pages",
+      "count": 800
+    }
+  ],
+  "transcription-guidelines": "OCR-D",
+  "gtvolume": {
+    "TxtRegion": "66",
+    "TextLine": "1131",
+    "Page": "42"
+  },
+  "labelling": [
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/text",
+    "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/text",
+    "granularity/physical/document-related/page",
+    "granularity/physical/document-related/text-line"
+  ]
+}
